@@ -1,0 +1,6 @@
+rencana
+-mambuat portpolio
+-membuat login
+ *pakai codeigniter
+-mambuat dashboard
+
